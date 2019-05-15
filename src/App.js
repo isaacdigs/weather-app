@@ -45,8 +45,8 @@ class App extends React.Component {
       <div>
         <div className="wrapper">
           <div className="main">
-            <div className="container">
-              <div className="row">
+            <div className="">
+              <div className="d-flex flex-row">
                 <div className="col-xs-5 col-5 title-container">
                   <Titles />
                 </div>
